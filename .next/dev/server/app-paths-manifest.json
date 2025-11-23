@@ -1,0 +1,6 @@
+{
+  "/airdrop/page": "app/airdrop/page.js",
+  "/game/page": "app/game/page.js",
+  "/leaderboard/page": "app/leaderboard/page.js",
+  "/page": "app/page.js"
+}

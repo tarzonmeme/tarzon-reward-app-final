@@ -1,0 +1,30 @@
+[00:00:01.151] Server  LOG     
+[00:00:01.152] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.152] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:01.153] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:01.153] Server  LOG     
+[00:00:01.153] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:01.154] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:01.154] Server  LOG     
+[00:00:01.416] Server  LOG      ✓ Ready in 919ms
+[00:01:10.587] Server  LOG      ○ Compiling / ...
+[00:01:11.701] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:13.581] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:13.977] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:13.977] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:13.978] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763885771616}
+[00:01:21.310] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /airdrop. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:21.527] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/airdrop color: rgb(120, 120, 120) color: inherit {"dp":"/airdrop","o":"http://localhost:3000/airdrop","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763885779155}
+[00:01:23.274] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /game. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:23.476] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/game color: rgb(120, 120, 120) color: inherit {"dp":"/game","o":"http://localhost:3000/game","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763885781098}
+[00:01:27.351] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /leaderboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:27.603] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/leaderboard color: rgb(120, 120, 120) color: inherit {"dp":"/leaderboard","o":"http://localhost:3000/leaderboard","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763885785238}
+[00:01:28.262] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:28.400] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763885786020}
